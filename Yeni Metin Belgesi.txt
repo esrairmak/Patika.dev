@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<head>
+<title> HTML-Patika</title>
+</head>
+<body>
+<h1> Esra IRMAK </h1>
+<h2> Hakkımda </h2>
+<p> Ben Esra, Kodluyoruz sayesinde Patika.dev eğitimlerine katılma fırsatı buldum. <br>
+Bunun dışında BTK Akademi üzerinden de eğitim alıyorum. 
+Amacım Front-end Developer olmak. 
+</p><h3> Bildiğim Temel Konular </h3><p>
+-HTML
+-CSS
+-JS
+-Web Tasarım </p>
+
+</body>
+</html>
